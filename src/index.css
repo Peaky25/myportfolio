@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap');
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+   
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
